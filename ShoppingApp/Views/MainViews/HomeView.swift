@@ -167,6 +167,7 @@ struct HomeView: View {
                 .scaledToFill()
                 .frame(width: 380, height: 244, alignment: .top)
                 .clipped()
+            
         }
        
         
