@@ -1,5 +1,14 @@
 # Shopping-App
 I recently created an e-commerce app using SwiftUI, incorporating essential features such as adding items to the cart, browsing through various collections, and viewing products. 
+
+**Tech Stack:**
+1. SwiftUI
+2. Swift
+3. MVVM Architecture
+
+
+
+
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-08-06 at 19 01 54](https://github.com/user-attachments/assets/606f8eb2-b872-4fb7-adcf-09405d51645f)
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-08-06 at 19 02 02](https://github.com/user-attachments/assets/c6d07e74-6c5b-4b7e-b1f2-b137d74c5316)
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-08-06 at 19 02 09](https://github.com/user-attachments/assets/8e05cf68-fbdc-47cd-be55-8c74d5c154d4)
